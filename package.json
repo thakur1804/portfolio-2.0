@@ -12,12 +12,17 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+
+    "styled-components": "^6.1.0"
+
     "three": "^0.158.0",
     "vite-plugin-glsl": "^1.1.2"
+
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
+    "@types/styled-components": "^5.1.29",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
     "@vitejs/plugin-react": "^4.0.3",
