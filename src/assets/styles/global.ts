@@ -11,7 +11,6 @@ const GlobalStyle = createGlobalStyle`
         color-scheme: dark;
         -webkit-text-size-adjust: 100%;
     }
-    
 `;
 
 export default GlobalStyle;
