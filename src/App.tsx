@@ -1,9 +1,9 @@
+import Home from './pages/home/home'
 
 function App() {
-
   return (
     <>
-      <p>klollgggrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrmf</p>
+      <Home />
     </>
   )
 }
